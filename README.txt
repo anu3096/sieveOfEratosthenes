@@ -28,6 +28,6 @@ Cobol Program
 
 ***NOTE***
 
-The user can only enter a 7 digit number for their upper limit (highly recommend lower than or equal to 1000000) in all five of my programs. If the user enters a number greater than 1000000, some programs might terminate with a stack overflow error or a segmentation fault.
+The user can only enter a 7 digit number for their upper limit (highly recommend lower than or equal to 1000000) in all five of my programs.
 
 **********
